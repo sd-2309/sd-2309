@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sd-2309
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning DAta Analysis
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on work
 - 📫 How to reach me BY mail Parekhswet@gmail.com and linkdien: www.linkedin.com/in/swet-parekh
 
